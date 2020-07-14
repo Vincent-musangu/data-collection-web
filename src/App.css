@@ -1,0 +1,19 @@
+.app {
+  background-size: 100%, cover !important;
+  background-position: center, center !important;
+  width: 90%;
+  height: auto;
+  position: relative;
+  animation: animateHeroimage 1s;
+  background: white;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 0 10px;
+  /* font-family: "Open Sans Condensed"; */
+  overflow: hidden;
+  background-image: url();
+}
+a {
+  text-decoration: none;
+  color: black;
+}

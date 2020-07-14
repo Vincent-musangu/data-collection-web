@@ -1,0 +1,29 @@
+.home {
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+  width: 80%;
+  height: 600px;
+  margin: 0% auto;
+  padding: 10px;
+  display: flex;
+}
+.home-box {
+  box-sizing: border-box;
+  color: white;
+  width: 70%;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  margin: 10% 100px;
+  height: 400p;
+}
+.text {
+  color: #ccc;
+  font-family: "Quicksand", sans-serif;
+}
+.title {
+  font-weight: bold;
+  margin: 0 0 20px 0;
+  font-size: 28px;
+}
